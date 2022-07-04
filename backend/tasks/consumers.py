@@ -1,4 +1,3 @@
-# chat/consumers.py
 from ast import While
 from asyncio import tasks
 import json
